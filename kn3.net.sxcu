@@ -1,0 +1,7 @@
+{
+  "Name": "KN3",
+  "DestinationType": "ImageUploader",
+  "RequestURL": "https://www.kn3.net/upload.php",
+  "FileFormName": "files[]",
+  "URL": "$json:direct$"
+}
